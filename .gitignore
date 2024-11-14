@@ -1,0 +1,26 @@
+# PlatformIO
+.pio
+.pioenvs
+.piolibdeps
+
+# VSCode
+.vscode
+
+# Build outputs
+build/
+
+# Compiled files
+*.o
+*.elf
+*.hex
+*.bin
+
+# Debug files
+*.dSYM/
+
+# Environment files
+.env
+
+# System files
+.DS_Store
+Thumbs.db

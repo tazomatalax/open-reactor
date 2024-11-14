@@ -44,10 +44,3 @@
 5. Add data logging and MQTT communication
 6. Implement user interface integration
 
-Would you like me to provide more specific details about any of these aspects or help you set up the development environment? Also, I can help modify the code for specific features or requirements you'd like to implement first.
-
-The code above is a starting point and would need to be customized based on your specific:
-- Sensor types and interfaces
-- Control parameters
-- Communication requirements
-- Safety requirements
